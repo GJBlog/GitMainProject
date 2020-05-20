@@ -1,0 +1,3 @@
+[submodule "GitSubProject"]
+	path = GitSubProject
+	url = git@github.com:GJBlog/GitSubProject.git
